@@ -1,0 +1,29 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 100px;
+}
+
+.boxBtn {
+  margin-top: 50px;
+}
+
+.btn {
+  padding: 8px 20px;
+  background-color: rgb(95, 226, 43);
+  border: none;
+  outline: none;
+}
+
+.btn:active {
+  background-color: tomato;
+}
+
+.number {
+  font-size: 32px;
+  font-weight: bold;
+  margin-left: 10px;
+  margin-right: 10px;
+  vertical-align: bottom;
+}

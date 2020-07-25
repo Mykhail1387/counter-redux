@@ -1,0 +1,11 @@
+.wrapper {
+  height: 100vh;
+  padding: 25px;
+  background-image: url(../../img/see.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}

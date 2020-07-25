@@ -1,0 +1,15 @@
+.list {
+  list-style: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(202, 87, 87);
+}
+
+.link:focus {
+  color: blue;
+}
